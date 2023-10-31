@@ -1,0 +1,3 @@
+C:/Users/demir/OneDrive/Masaüstü/AutoClicker/cmake-build-debug/CMakeFiles/AutoClicker.dir
+C:/Users/demir/OneDrive/Masaüstü/AutoClicker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/demir/OneDrive/Masaüstü/AutoClicker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
